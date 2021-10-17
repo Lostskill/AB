@@ -1,7 +1,7 @@
 from tkinter import * 
 import pickle 
 import os
-import tkinter.messagebox as mb 
+
 os.chdir(r'C:\Users\User\Documents\Programms\Reserv')
 
 
